@@ -122,5 +122,5 @@ Neste tutorial, aprendemos algumas configurações comuns de servidor integrado 
 
 #
 
-Hope that helps. Cheers!
+Hope that helps. Cheers!<br>
 Isac Canedo 😉
