@@ -1,4 +1,4 @@
-## How to Configure Spring Boot Tomcat
+# How to Configure Spring Boot Tomcat
 
 # 1. Visão Geral
 O Spring Boot Web inclue um servidor web embutido pré-configurado por padrão. Em algumas situações, porém, gostaríamos de modificar a configuração padrão para atender aos requisitos personalizados.
